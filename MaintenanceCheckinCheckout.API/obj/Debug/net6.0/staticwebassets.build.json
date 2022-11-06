@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IJojwkOdrbrbLPddNDhc3tsGiYD6wy3SC0AwSVfPbxU=",
+  "Source": "MaintenanceCheckinCheckout.API",
+  "BasePath": "_content/MaintenanceCheckinCheckout.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
